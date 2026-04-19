@@ -40,11 +40,6 @@ Analyze workforce trends, attrition patterns, and employee demographics.
 
 \## Dashboard Preview
 
-
-
-!\[Dashboard](images/Hr power bi Dashboard1.png)
-
-!\[Dashboard](images/Hr power bi Dashboard2.png)
-
-!\[Dashboard](images/Hr power bi Dashboard3.png)
-
+![Overview](images/dashboard1.png)
+![Attrition](images/dashboard2.png)
+![KPIs](images/dashboard3.png)
