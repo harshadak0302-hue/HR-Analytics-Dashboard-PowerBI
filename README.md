@@ -42,10 +42,10 @@ Analyze workforce trends, attrition patterns, and employee demographics.
 
 ## Dashboard Preview
 
-![Overview](images/dashboard1.png)
+![Overview](Images/dashboard1.png)
 
-![Attrition Analysis](images/dashboard2.png)
+![Attrition Analysis](Images/dashboard2.png)
 
-![KPI Dashboard](images/dashboard3.png)
+![KPI Dashboard](Images/dashboard3.png)
 
 
