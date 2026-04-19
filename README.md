@@ -37,11 +37,6 @@ Analyze workforce trends, attrition patterns, and employee demographics.
 \- Derived insights for HR decision-making
 
 
-
-\## Dashboard Preview
-
-## Dashboard Preview
-
 ## Dashboard Preview
 
 ![Overview](Images/dashboard1.png)
